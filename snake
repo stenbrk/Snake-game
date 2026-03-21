@@ -17,7 +17,7 @@
             display: block;
             margin: auto;
             border: 2px solid white;
-            /* witte lijn rond het speelveld */
+            box-shadow: 0 0 10px white;
         }
 
         #overlay {
